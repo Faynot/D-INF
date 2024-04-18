@@ -5,10 +5,10 @@
 Бек - python (FastAPI), SQlite</p>
 
 <h1>для вашегоже удобства, вот:<h1>
-<p>FastAPI - https://fastapi.tiangolo.com/ru/
-SQlite - https://docs.python.org/3/library/sqlite3.html
-React.js - https://react.dev/blog/2023/03/16/introducing-react-dev
-sass - https://sass-lang.com/documentation/</p>
+<p>FastAPI - https://fastapi.tiangolo.com/ru/</p>
+<p>SQlite - https://docs.python.org/3/library/sqlite3.html</p>
+<p>React.js - https://react.dev/blog/2023/03/16/introducing-react-dev</p>
+<p>sass - https://sass-lang.com/documentation/</p>
 
 <h1>Макет сайта</h1>
 
