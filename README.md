@@ -1,8 +1,8 @@
 # Але, пидоры
 
 <h1>стек:</h1>
-<p>Фронт - React.js, sass
-Бек - python (FastAPI), SQlite</p>
+<p>Фронт - React.js, sass</p>
+<p>Бек - python (FastAPI), SQlite</p>
 
 <h1>для вашегоже удобства, вот:<h1>
 <p>FastAPI - https://fastapi.tiangolo.com/ru/</p>
