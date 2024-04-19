@@ -1,0 +1,15 @@
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.main-content {
+  display: none; /* Изначально скрываем основное содержимое */
+}
+
+.fade-out .main-content {
+  display: block; /* После завершения анимации загрузки показываем основное содержимое */
+}
